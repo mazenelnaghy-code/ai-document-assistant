@@ -1,5 +1,7 @@
 # AI Document Assistant
 
+[![tests](../../actions/workflows/tests.yml/badge.svg)](../../actions/workflows/tests.yml)
+
 Ask questions about a folder of PDFs, such as policies, contracts, manuals or handbooks, and get short answers
 that cite the exact file and page they came from.
 
